@@ -34,7 +34,7 @@
       <div class="stacks">
 
         <div class="stack">
-          <img src="./assets/imgs/vue.png" alt="">
+          <img src="./assets/imgs/Vue.png" alt="">
           <p>Vue.js</p>
         </div>
 
